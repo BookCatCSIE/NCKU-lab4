@@ -50,6 +50,8 @@ Script done on 廿十八年四月十五日 (週日) 廿三時43分37秒
 pd2vm@pd2-vbox:~/lab4$ exit
 Script done, file is README
 
+So, encoded identifiers for the functions are _Z7averageif and _Z7averagePdRd.
+
 B.
 pd2vm@pd2-vbox:~/lab4$ ./B
 1 8
